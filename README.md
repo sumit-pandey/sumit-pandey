@@ -6,6 +6,8 @@
 [![Generic badge](https://img.shields.io/badge/HTML5-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CSS3-<red>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/javaScript-<green>.svg)](https://shields.io/)
-
+[![Generic badge](https://img.shields.io/badge/ReactJS-<green>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Apollo Client-<green>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Redux-<green>.svg)](https://shields.io/)
 
 
