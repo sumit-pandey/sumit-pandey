@@ -10,6 +10,5 @@
 [![Generic badge](https://img.shields.io/badge/ApolloClient-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Redux-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/GraphQL-<green>.svg)](https://shields.io/)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
 
