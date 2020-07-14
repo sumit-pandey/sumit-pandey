@@ -12,5 +12,9 @@
 [![Generic badge](https://img.shields.io/badge/GraphQL-<green>.svg)](https://shields.io/)
 
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+
+
+
 
 
