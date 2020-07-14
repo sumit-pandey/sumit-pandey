@@ -9,5 +9,6 @@
 [![Generic badge](https://img.shields.io/badge/ReactJS-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ApolloClient-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Redux-<green>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/GraphQL-<green>.svg)](https://shields.io/)
 
 
