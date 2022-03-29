@@ -9,6 +9,7 @@
 [![Generic badge](https://img.shields.io/badge/ApolloClient-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Redux-<green>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/GraphQL-<green>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Nextjs-<green>.svg)](https://shields.io/)
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/sumit-pandey/)
